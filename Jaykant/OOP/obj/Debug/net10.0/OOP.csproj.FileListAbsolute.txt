@@ -1,0 +1,15 @@
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\bin\Debug\net10.0\OOP.exe
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\bin\Debug\net10.0\OOP.deps.json
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\bin\Debug\net10.0\OOP.runtimeconfig.json
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\bin\Debug\net10.0\OOP.dll
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\bin\Debug\net10.0\OOP.pdb
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\OOP.AssemblyInfoInputs.cache
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\OOP.AssemblyInfo.cs
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\OOP.sourcelink.json
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\OOP.dll
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\refint\OOP.dll
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\OOP.pdb
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\OOP.genruntimeconfig.cache
+C:\Users\jayka\source\repos\OOPS-Week2-Review\Jaykant\OOP\obj\Debug\net10.0\ref\OOP.dll
