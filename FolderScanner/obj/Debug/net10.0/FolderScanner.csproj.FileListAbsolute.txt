@@ -1,0 +1,15 @@
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\FolderScanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\FolderScanner.AssemblyInfoInputs.cache
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\FolderScanner.AssemblyInfo.cs
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\FolderScanner.csproj.CoreCompileInputs.cache
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\FolderScanner.sourcelink.json
+D:\Acess meditech\Practice\FolderScanner\bin\Debug\net10.0\FolderScanner.exe
+D:\Acess meditech\Practice\FolderScanner\bin\Debug\net10.0\FolderScanner.deps.json
+D:\Acess meditech\Practice\FolderScanner\bin\Debug\net10.0\FolderScanner.runtimeconfig.json
+D:\Acess meditech\Practice\FolderScanner\bin\Debug\net10.0\FolderScanner.dll
+D:\Acess meditech\Practice\FolderScanner\bin\Debug\net10.0\FolderScanner.pdb
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\FolderScanner.dll
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\refint\FolderScanner.dll
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\FolderScanner.pdb
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\FolderScanner.genruntimeconfig.cache
+D:\Acess meditech\Practice\FolderScanner\obj\Debug\net10.0\ref\FolderScanner.dll

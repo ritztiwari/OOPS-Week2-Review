@@ -1,0 +1,41 @@
+### **What are clauses and their need in SQL Server?**
+
+If you want to provide the SQL Query with some additional functionalities such as filtering the records, sorting the records, fetching the records, and grouping the records then you need to use the SQL Server Clauses along with the SQL Query. So, in simple words, we can say that SQL Server clauses are used to provide some additional functionalities.
+
+### **Types of Clauses in SQL Server:**
+
+The SQL Server supports the following clauses
+
+1. [**Where**](https://dotnettutorials.net/lesson/where-clause-sql-server/) (Filtering the records in a table)
+2. [**Order by clause**](https://dotnettutorials.net/lesson/order-by-clause-sql-server/) (sorting the records in ascending or descending order)
+3. [**Top n clause**](https://dotnettutorials.net/lesson/top-n-clause-sql-server/) (Fetching top n records)
+4. [**Group by clause**](https://dotnettutorials.net/lesson/group-by-clause-sql-server/) (Grouping a set of rows)
+5. [**Having Clause**](https://dotnettutorials.net/lesson/having-clause-sql-server/) (Filtering the data like where clause)
+
+if you want to sort the output or result of a query either in ascending or descending order then you need to use SQL Server Order by Clause. Following is the syntax to use Order By Clause.
+
+**SELECT expressions FROM tables [WHERE conditions] ORDER BY expression [ASC | DESC];**
+
+By default, the Order By Clause in SQL Server sorts data in ascending order.
+
+The Order By Clause can be applied to columns of any data type. It arranges data temporarily—not permanently—and can only be used in Select statements.### **What are clauses and their need in SQL Server?**
+
+If you want to provide the SQL Query with some additional functionalities such as filtering the records, sorting the records, fetching the records, and grouping the records then you need to use the SQL Server Clauses along with the SQL Query. So, in simple words, we can say that SQL Server clauses are used to provide some additional functionalities.
+
+### **Types of Clauses in SQL Server:**
+
+The SQL Server supports the following clauses
+
+1. [**Where**](https://dotnettutorials.net/lesson/where-clause-sql-server/) (Filtering the records in a table)
+2. [**Order by clause**](https://dotnettutorials.net/lesson/order-by-clause-sql-server/) (sorting the records in ascending or descending order)
+3. [**Top n clause**](https://dotnettutorials.net/lesson/top-n-clause-sql-server/) (Fetching top n records)
+4. [**Group by clause**](https://dotnettutorials.net/lesson/group-by-clause-sql-server/) (Grouping a set of rows)
+5. [**Having Clause**](https://dotnettutorials.net/lesson/having-clause-sql-server/) (Filtering the data like where clause)
+
+if you want to sort the output or result of a query either in ascending or descending order then you need to use SQL Server Order by Clause. Following is the syntax to use Order By Clause.
+
+**SELECT expressions FROM tables [WHERE conditions] ORDER BY expression [ASC | DESC];**
+
+By default, the Order By Clause in SQL Server sorts data in ascending order.
+
+The Order By Clause can be applied to columns of any data type. It arranges data temporarily—not permanently—and can only be used in Select statements.

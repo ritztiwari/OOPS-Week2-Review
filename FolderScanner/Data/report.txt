@@ -1,0 +1,3 @@
+data.txt - 3KB
+notes.txt - 6KB
+report.txt - 0KB
