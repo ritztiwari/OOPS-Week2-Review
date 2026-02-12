@@ -1,0 +1,15 @@
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\SubscriptionSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\SubscriptionSystem.AssemblyInfoInputs.cache
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\SubscriptionSystem.AssemblyInfo.cs
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\SubscriptionSystem.csproj.CoreCompileInputs.cache
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\SubscriptionSystem.sourcelink.json
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\bin\Debug\net10.0\SubscriptionSystem.exe
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\bin\Debug\net10.0\SubscriptionSystem.deps.json
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\bin\Debug\net10.0\SubscriptionSystem.runtimeconfig.json
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\bin\Debug\net10.0\SubscriptionSystem.dll
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\bin\Debug\net10.0\SubscriptionSystem.pdb
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\SubscriptionSystem.dll
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\refint\SubscriptionSystem.dll
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\SubscriptionSystem.pdb
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\SubscriptionSystem.genruntimeconfig.cache
+D:\Acess meditech\Practice\Review04\SubscriptionSystem\obj\Debug\net10.0\ref\SubscriptionSystem.dll
