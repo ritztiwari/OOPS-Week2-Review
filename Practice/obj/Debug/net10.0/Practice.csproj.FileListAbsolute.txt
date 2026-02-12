@@ -1,0 +1,15 @@
+D:\Acess meditech\Practice\Practice\bin\Debug\net10.0\Practice.exe
+D:\Acess meditech\Practice\Practice\bin\Debug\net10.0\Practice.deps.json
+D:\Acess meditech\Practice\Practice\bin\Debug\net10.0\Practice.runtimeconfig.json
+D:\Acess meditech\Practice\Practice\bin\Debug\net10.0\Practice.dll
+D:\Acess meditech\Practice\Practice\bin\Debug\net10.0\Practice.pdb
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\Practice.AssemblyInfoInputs.cache
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\Practice.AssemblyInfo.cs
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\Practice.csproj.CoreCompileInputs.cache
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\Practice.dll
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\refint\Practice.dll
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\Practice.pdb
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\Practice.genruntimeconfig.cache
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\ref\Practice.dll
+D:\Acess meditech\Practice\Practice\obj\Debug\net10.0\Practice.sourcelink.json

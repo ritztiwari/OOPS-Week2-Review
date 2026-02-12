@@ -1,0 +1,15 @@
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\User.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\User.App.AssemblyInfoInputs.cache
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\User.App.AssemblyInfo.cs
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\User.App.csproj.CoreCompileInputs.cache
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\User.App.sourcelink.json
+D:\Acess meditech\Practice\Review04\User.App\bin\Debug\net10.0\User.App.exe
+D:\Acess meditech\Practice\Review04\User.App\bin\Debug\net10.0\User.App.deps.json
+D:\Acess meditech\Practice\Review04\User.App\bin\Debug\net10.0\User.App.runtimeconfig.json
+D:\Acess meditech\Practice\Review04\User.App\bin\Debug\net10.0\User.App.dll
+D:\Acess meditech\Practice\Review04\User.App\bin\Debug\net10.0\User.App.pdb
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\User.App.dll
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\refint\User.App.dll
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\User.App.pdb
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\User.App.genruntimeconfig.cache
+D:\Acess meditech\Practice\Review04\User.App\obj\Debug\net10.0\ref\User.App.dll

@@ -1,0 +1,8 @@
+D:\Acess meditech\Practice\Demo.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_Demo.Tests
+D:\Acess meditech\Practice\Demo.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_Demo.Tests
+D:\Acess meditech\Practice\Demo.Tests\obj\Debug\net10.0\Demo.Tests.csproj.AssemblyReference.cache
+D:\Acess meditech\Practice\Demo.Tests\obj\Debug\net10.0\Demo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\Practice\Demo.Tests\obj\Debug\net10.0\Demo.Tests.AssemblyInfoInputs.cache
+D:\Acess meditech\Practice\Demo.Tests\obj\Debug\net10.0\Demo.Tests.AssemblyInfo.cs
+D:\Acess meditech\Practice\Demo.Tests\obj\Debug\net10.0\Demo.Tests.csproj.CoreCompileInputs.cache
+D:\Acess meditech\Practice\Demo.Tests\obj\Debug\net10.0\Demo.Tests.sourcelink.json
